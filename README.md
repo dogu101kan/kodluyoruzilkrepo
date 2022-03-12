@@ -4,9 +4,9 @@
 
 ## Git clone
 
-'''bash
+```bash
 git clone https://github.com/dogu101kan/kodluyoruzilkrepo.git
-'''
+```
 ## Lisans
 [MIT](https://choosealicense.com/licenses/mit/)
 
